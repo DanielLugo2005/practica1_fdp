@@ -1,2 +1,2 @@
 # practica1_fdp
-repositorio de programacion
+repositorio de programacion.
